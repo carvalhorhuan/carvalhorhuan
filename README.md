@@ -28,4 +28,5 @@ E se tiver alguma dúvida ou quiser entrar em contato, sinta-se à vontade para 
  
 <div> 
   <a href="https://www.linkedin.com/in/rhuan-carvalho-75327113b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/Rhuan Carvalho#0338" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
