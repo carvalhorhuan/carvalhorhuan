@@ -14,7 +14,7 @@
  
  <br>
  
-  ### É um prazer me apresentar a você. 
+ <h1>É um prazer me apresentar a você.</h1> 
 Sou um profissional criativo e focado em resultados que está se preparando para transicionar para a emocionante área da programação, que está cada vez mais demandando profissionais qualificados.
 
 Tenho habilidades em análise de dados, resolução de problemas e trabalho em equipe, experiência de 6 anos em gestão de dados relativos a vendas e lógica de dados. Durante esse período, adquiri habilidades em criação de Dashboard 📊 e automação via VBA  e uso de java script em googleSheets🤖, desenvolvendo capacidades de análise e divulgação de indicadores de vendas, criação de KPIs de vendas, Dashboards e desenvolvimento de rotas e trade marketing relatórios automatizados.
