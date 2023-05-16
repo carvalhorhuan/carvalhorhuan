@@ -24,7 +24,7 @@ Além disso, estou sempre buscando aprimorar minhas habilidades em programação
 
 Estou procurando por oportunidades desafiadoras e inovadoras para aplicar minhas habilidades e contribuir com projetos incríveis 💪🚀.
 
-E se tiver alguma dúvida ou quiser entrar em contato, sinta-se à vontade para me enviar um e-mail 📧 para carvalho.rhuan@gmail.com ou uma mensagem no Whatsapp 📱: 48 99832-6560.
+E se tiver alguma dúvida ou quiser entrar em contato: <li>e-mail 📧 para <strong>carvalho.rhuan@gmail.com</strong></li> <li>Whatsapp 📱: <strong>48 99832-6560</strong></li>
  
 <div> 
   <a href="https://www.linkedin.com/in/rhuan-carvalho-75327113b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
