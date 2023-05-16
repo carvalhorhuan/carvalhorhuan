@@ -15,12 +15,12 @@
  <br>
  
  <h1>É um prazer me apresentar a você.</h1> 
-Sou um profissional criativo e focado em resultados que está se preparando para transicionar para a emocionante área da programação, que está cada vez mais demandando profissionais qualificados.
+Sou um profissional criativo e focado em resultados que está se preparando para transicionar para a emocionante área da programação, que está cada vez mais demandando profissionais qualificados, sempre atuando de alguma forma com algo relacionado a programação.
 
-Tenho habilidades em análise de dados, resolução de problemas e trabalho em equipe, experiência de 6 anos em gestão de dados relativos a vendas e lógica de dados. Durante esse período, adquiri habilidades em criação de Dashboard 📊 e automação via VBA  e uso de java script em googleSheets🤖, desenvolvendo capacidades de análise e divulgação de indicadores de vendas, criação de KPIs de vendas, Dashboards e desenvolvimento de rotas e trade marketing relatórios automatizados.
+ Tenho <strong>habilidades</strong> em <b>análise de dados</b>, resolução de problemas e trabalho em equipe, <b>experiência de 6 anos em gestão de dados relativos a vendas e lógica de dados</b>. Durante esse período, adquiri habilidades em: <li>criação de Dashboard</li>, <li>automação via VBA</li>.  <br> <B>Uso de java script em googleSheets🤖</b>, desenvolvendo relatórios de: <li>Análise</li>, <li>divulgação de indicadores de vendas</li>, <li>criação de KPIs de vendas</li>, <li>Dashboards</li>,  <li>Desenvolvimento de rotas</li>, <li>trade marketing</li>, <li>relatórios automatizados</li>.
 
 Além disso, estou sempre buscando aprimorar minhas habilidades em programação. 
-Atualmente, esotu fazendo cursos em Html, CSS, JavaScript gratuitos da Rocketseat (Conectar, Fundamentar, Especializar) e continuo em constante aprendizado 📚💻.
+ Atualmente, esotu fazendo <b>cursos em Html, CSS, JavaScript gratuitos da Rocketseat</b> (Conectar, Fundamentar, Especializar) e continuo em constante aprendizado 📚💻.
 
 Estou procurando por oportunidades desafiadoras e inovadoras para aplicar minhas habilidades e contribuir com projetos incríveis 💪🚀.
 
